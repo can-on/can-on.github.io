@@ -1,5 +1,5 @@
 #############
-Canon.Com/ijsetup | Canon wireless printer| setup Canon printer
+Canon.com/ijsetup | Install New App, Drivers From Canon Support
 #############
 
 .. image:: Get-Started.png   
@@ -7,51 +7,49 @@ Canon.Com/ijsetup | Canon wireless printer| setup Canon printer
 	  :align: center    
 	  :height: 100px    
 	  :alt: Canon.Com/ijsetup    
-	  :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+	
 
-Canon.Com/ijsetup will manual you to Install Canon printer brand new updated drivers, for Canon printer setup you could additionally visit canon.com/ijsetup. If we talk about printers the first name comes in our thoughts is Canon printer, on this internet site we will inform you a way to setup & deploy your canon printer with little information approximately computers.
+Find updated canon printers app, drivers & manual for canon pixma photo printer. We offer canon printer setup resources & canon support for canon printer.
 
-#############
-How to install the Canon wireless printer on windows computer?
-#############
-
-
-**Below steps will help you to setup Canon wireless printer with the help of canon.com/ijsetup official Canon printers’ driver website.**
-
-1. Install cartridges in your printer and turn it ON.
-2. Make sure you have WPS button on your WIFI router & your computer and printer connected within the same network.
-3. On your computer go to browser and open `canon.com/ijsetup<https://prnter.readthedocs.io/en/latest/>`_v, and search your printer model and download the latest and updated drivers for Canon printer.
-4. Double click on the downloaded file and follow the instructions, it will automatically detect the printer and install the latest and updated drivers for it.
-5. If it’s not installed automatically then you need to do it manually go to settings on your printer choose wireless option and within 2 minutes 
-
-press the WPS button on your WIFI router then it will connect with the network.
-6. Once your printer installed test it by giving print from the computer.
-
-#############
-How to setup Canon printer on MAC?
-#############
-
-**Visit canon.com/ijsetup mac to install Canon printer on MAC.**
-
-1. Insert cartridges and turn ON your Canon printer.
-2. Connect your canon printer via USB cable.
-3. Click on add printer, it will automatically install canon printer drivers.
-4. If it above steps does not work, you need to download printer drivers from `canon.com/ijsetup<https://prnter.readthedocs.io/en/latest/>`_ mac.
-5. Click on downloaded file to install Canon printer.
+**********
+Canon.com/ijsetup | Canon Printer Setup
+**********
 
 
-*************
-If you don’t have USB cable follow below steps.
-*************
+Canon printer setup instructions and troubleshooting solutions. Do you want to know how to set up the printer and fix its problems? You have reached the right place to get the step by step instructions and simple solutions for most printer problems. Solve the issues and take the printing to the next level using canon.com/ijsetup support.
+
+**********
+Canon Printer Unboxing and First-Time Setup
+**********
 
 
-1. Turn ON Printer.
-2. Locate the WPS button on WIFI router.
-3. Download printer drivers from canon.com/ijsetup MAC.
-4. Open downloaded file and follow steps.
-5. While following instruction it will ask to press WPS button on WIFI.
-6. Then press OK button on printer.
-7. Once done it will connect with network.
-8. Now on your MAC computer click add printer. 
-9. Locate the printer to install.
-10. Once all done make a test print to confirm.
+1. Cut open the printer’s shipment package and remove all the packing materials. 
+2. Remove the plastic cover from the printer and place it on a clean table.
+3. Take out the installation **CD-ROM**, setup manual, and other accessories from the box.
+4. Read the setup manual before you begin with the canon printer setup process.
+5. Remove the styrofoam packaging from the sides of the printer.
+6. Now, peel off the stickers from the printer.
+7. Remove the packing materials from the scanner glass and feeder.
+8. Grab the power cord provided with the printer and plug the cable into the power supply slot.
+9. Attach the other terminal of the power cord into the printer’s rear.
+10. Tap the Power button on the printer’s control panel and proceed to install the ink cartridges.
+11. Now, load papers into the input tray and install the required printer driver on your computer.
+
+
+**********
+Install Canon Printer Driver || Canon.com/ijsetup
+**********
+
+
+1. To start with the installation procedure, power off the Canon printer
+2. Now, start the installer on your computer. 
+3. Click the link given on this site to download the printer drivers.
+4. After the downloading process is complete, double-click on the printer icon in the Downloads folder.
+5. In Windows computer, administrative rights are required to install or uninstall any software on your computer.
+6. Select OK or Allow to continue with the printer driver installation process.
+7. To use the canon.com/ijsetup over a network, manually choose the connection destination from the client.
+8. Click Cancel in the **Connect Cable screen**, and select Yes on the confirmation screen.
+9. Choose the Select Printer Port check box and click the Manual Selection option.
+10. Choose the appropriate port and click Complete.
+11. Restart your computer to conclude the canon printer driver installation.
+12. You can perform the same steps to install both the MP or XPS driver on your computer.
